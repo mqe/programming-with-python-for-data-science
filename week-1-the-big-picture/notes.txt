@@ -1,0 +1,28 @@
+--- Data analysis process ---
+
+- Collecting data from various sources
+- Wrangling data to make it more reliable
+- Exploring data using statistics and visualizations
+- Transforming data to prepare it for modeling
+- Modeling data using the appropriate machine learning algorithms
+- Evaluating the results of the data models
+
+--- Machine Learning ---
+
+Generalizable algorithms to complete tasks (i.e. solve problems) by examining data, in comparison with hard coding specific instructions.
+
+Unsupervised learning:
+	Collected data without instructions to find patterns and outliers.
+	- Clustering (automatically group similar samples into sets)
+	- Dimensionality reduction (reduce the number of features in a dataset)
+
+Supervised learning:
+	Applying rules and conditions to collected data to produce results.
+	- Classification (anti-spam)
+	- Regression (predicting continuous-valued, i.e. small changes in input data results in small changes in the output)
+
+Reinforcement learning:
+	To maximize reward/ or minimize cost for a function (balancing cost and reward).
+	- Learn how to beat video games
+	- Automate trading of stocks and securities 
+

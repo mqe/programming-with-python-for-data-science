@@ -1,0 +1,49 @@
+--- Features ---
+
+	Attribute:
+		Features are a quantitative attributes of the samples being observed
+	
+	Axis:
+		Features are orthogonal axes of their feature space, if they are linearly independent
+
+	Column:
+		Features are represented as columns in your dataset
+
+	Dimension:
+		A dataset's features, grouped together can be treated as a n-dimensional coordinate space
+
+	Input:
+		Feature values are the input of data-driven, machine learning algorithms
+
+	Predictor:
+		Features used to predict other attributes are called predictors
+
+	View:
+		Each feature conveys a quantitative trait or perspective about the sample being observed
+
+	Independent Variable:
+		Autonomous features used to calculate others are like independent variables in algebraic equations
+
+--- Types of features ---
+
+Continuous (measurable difference):
+	- Distance
+	- Time
+	- Cost
+	- Temperature
+
+Categorical (specified number, discrete):
+	
+	Nominal (unordered)
+
+	- Car Models
+	- Colors
+	- TV Shows
+	
+	Ordinal (natural order)
+
+	- High-Medium-Low
+	- 1-10 Years Old, 11-20 Years Old, 30-40 Years Old
+	- Happy, Neutral, Sad
+
+
